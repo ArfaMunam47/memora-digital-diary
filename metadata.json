@@ -1,0 +1,6 @@
+{
+  "name": "Keepsake Diary & Scrapbook Editor",
+  "description": "Craft personal diaries, memory scrapbooks, and photo journals with draggable elements, templates, stickers, and page management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
