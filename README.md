@@ -213,15 +213,6 @@ We're trying to make that feeling available to more people, wherever they are.
 <br />
 <hr/>
 
-<p align="center">
-  <strong>Memora 🎀📚</strong>
-  <br />
-  <em>Your life, beautifully kept...❤️</em>
-  <br /><br />
-  Building something meaningful, one page at a time. ♡
-</p>
-<hr/>
-
 ## 🚀 The Long-Term Vision
 
 Memora aims to become more than a digital notebook.
@@ -230,6 +221,16 @@ It aims to become a creative space where people can preserve their stories, desi
 
 A place where your memories aren't just stored—they're beautifully kept.
 <hr/>
+
+
+<p align="center">
+  <strong>Memora 🎀📚</strong>
+  <br />
+  <em>Your life, beautifully kept...❤️</em>
+  <br /><br />
+  Building something meaningful, one page at a time. ♡
+</p>
+
 
 <p align="center">
   Made with 💗, creativity, and a commitment to building a real product.
